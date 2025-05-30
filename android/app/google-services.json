@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "162817807605",
+    "project_id": "fooddeliveryapp-7d28d",
+    "storage_bucket": "fooddeliveryapp-7d28d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162817807605:android:fb6ac13fcfb2ebd930e1bc",
+        "android_client_info": {
+          "package_name": "com.example.flutterproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5viT4ez6G4UmIHxlGokRD9NFNd8Uspso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162817807605:android:2e37940d4153fef230e1bc",
+        "android_client_info": {
+          "package_name": "com.example.flutterprojecttask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5viT4ez6G4UmIHxlGokRD9NFNd8Uspso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162817807605:android:095bcdc1cc18d1ad30e1bc",
+        "android_client_info": {
+          "package_name": "com.example.fooddeliveryapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5viT4ez6G4UmIHxlGokRD9NFNd8Uspso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162817807605:android:fd6cbea82da01ede30e1bc",
+        "android_client_info": {
+          "package_name": "com.example.frankandmichaelproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5viT4ez6G4UmIHxlGokRD9NFNd8Uspso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162817807605:android:319f318a380f0aec30e1bc",
+        "android_client_info": {
+          "package_name": "com.example.frankmichaelflutterproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5viT4ez6G4UmIHxlGokRD9NFNd8Uspso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
